@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=timi-leyin&theme=angolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timi-leyin&show_icons=true)](https://github.com/bossoncode/read-md-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timi-leyin&show_icons=true)](https://github.com/timi-leyin/read-md-stats)
 
 
  
