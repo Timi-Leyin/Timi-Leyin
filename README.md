@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Redux and Typescript.
 - 👯 I’m looking to collaborate on Frontend-Web and UI Designs.
 - 🤔 I’m looking for help with React.
-- 💬 Ask me about React, Front-end Web Development, Any tech-related stuff.
+- 💬 Ask me about Redux, Front-end Web Development, Any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
@@ -36,8 +36,8 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Timi-Leyin&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Timi-Leyin&">
-<img  src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Timi-Leyin&show_icons=true&theme=vue)](https://github.com/Timi-Leyin/read-md-stats" >
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Timi-Leyin&theme=vue">
+ https://github-readme-stats.vercel.app/api/top-langs/?username=Timi-Leyin&show_icons=true&theme=vue
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
