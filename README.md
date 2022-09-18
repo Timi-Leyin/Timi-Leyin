@@ -12,7 +12,7 @@
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning Go lang.
-- 👯 I’m looking to collaborate on Frontend-Web and UI Designs.
+- 👯 I’m looking to collaborate Web development .
 - 🤔 I’m looking for help with Web3.
 - 💬 Ask me about Front-end Web Development, Any tech-related stuff.
 
