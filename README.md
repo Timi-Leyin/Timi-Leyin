@@ -13,7 +13,7 @@
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning Go lang.
 - 👯 I’m looking to collaborate Web development .
-- 🤔 I’m looking for help with Web3.
+- 🤔 I’m looking for help with software development .
 - 💬 Ask me about Front-end Web Development, Any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
