@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Go lang.
 - 👯 I’m looking to collaborate Web development .
 - 🤔 I’m looking for help with software development .
-- 💬 Ask me about Front-end Web Development,software development, Any tech-related stuff.
+- 💬 Ask me about any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me:</h2></summary>
