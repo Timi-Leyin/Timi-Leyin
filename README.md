@@ -5,13 +5,13 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a web developer.<br/>I specialize in Web-Development <br> I also love Graphic Design etc.<br></p><br/>
+<p align="center">I'm a web developer.<br/>I specialize in Web-Development <br> I also love anything design😎😍❤️ etc.<br></p><br/>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning Go lang.
+- 🌱 I’m currently learning Go lang .
 - 👯 I’m looking to collaborate Web development .
 - 🤔 I’m looking for help with software development .
 - 💬 Ask me about tech-related stuff.
