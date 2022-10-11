@@ -12,7 +12,7 @@
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning Go lang .
-- 👯 I’m looking to collaborate Web development .
+- 👯 I’m looking to collaborate software development .
 - 🤔 I’m looking for help with software development .
 - 💬 Ask me about tech-related stuff.
 
